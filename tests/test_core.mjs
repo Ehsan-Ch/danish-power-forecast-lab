@@ -1,0 +1,10 @@
+import test from 'node:test';
+import assert from 'node:assert/strict';
+import {readFileSync} from 'node:fs';
+import {score,cost,csv,orderStatus,chartDomain} from '../web/core.mjs';
+const report=JSON.parse(readFileSync(new URL('../reports/benchmark/results.json',import.meta.url),'utf8'));
+test('browser scoring agrees with Python for both zones and all models',()=>{for(const r of Object.values(report.areas)){const y=r.days.flatMap(d=>d.actual);for(const name of Object.keys(r.metrics)){const p=r.days.flatMap(d=>d.predictions[name]),actual=score(y,p);for(const [key,value]of Object.entries(actual))assert.ok(Math.abs(value-r.metrics[name][key])<1e-4,key);}}});
+test('paper costs reconcile for every settled day',()=>{for(const r of Object.values(report.areas))for(const d of r.days)for(const p of Object.values(d.policies))if(p.status==='SETTLED')assert.ok(Math.abs(cost(d.actual,p.quantities)-p.cost)<1e-4);});
+test('lifecycle replay does not show rejected orders as approved',()=>{assert.equal(orderStatus('SETTLED','PROPOSED'),'PROPOSED');assert.equal(orderStatus('REJECTED','APPROVED'),'REJECTED');assert.equal(orderStatus('SETTLED','APPROVED'),'APPROVED');});
+test('chart domain retains negative prices and uncertainty extremes',()=>{const [lo,hi]=chartDomain([-5,0],[[0,1,2],[-10,0,20]]);assert.ok(lo< -10&&hi>20);const [a,b]=chartDomain([0],[[0,0,0]]);assert.ok(a<0&&b>0);});
+test('CSV escapes commas, quotes and line breaks',()=>{assert.equal(csv([['DK1','a,b','a"b','a\nb']]),'"DK1","a,b","a""b","a\nb"');});

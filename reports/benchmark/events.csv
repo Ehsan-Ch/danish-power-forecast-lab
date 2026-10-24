@@ -1,0 +1,1105 @@
+id,batch,at,state,details
+1,DK1/2026-07-01/median,2026-06-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+2,DK1/2026-07-01/median,2026-06-30T08:00:00Z,APPROVED,Within forecast budget
+3,DK1/2026-07-01/median,2026-07-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+4,DK1/2026-07-01/upper,2026-06-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+5,DK1/2026-07-01/upper,2026-06-30T08:00:00Z,APPROVED,Within forecast budget
+6,DK1/2026-07-01/upper,2026-07-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+7,DK1/2026-07-02/median,2026-07-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+8,DK1/2026-07-02/median,2026-07-01T08:00:00Z,APPROVED,Within forecast budget
+9,DK1/2026-07-02/median,2026-07-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+10,DK1/2026-07-02/upper,2026-07-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+11,DK1/2026-07-02/upper,2026-07-01T08:00:00Z,APPROVED,Within forecast budget
+12,DK1/2026-07-02/upper,2026-07-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+13,DK1/2026-07-03/median,2026-07-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+14,DK1/2026-07-03/median,2026-07-02T08:00:00Z,APPROVED,Within forecast budget
+15,DK1/2026-07-03/median,2026-07-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+16,DK1/2026-07-03/upper,2026-07-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+17,DK1/2026-07-03/upper,2026-07-02T08:00:00Z,APPROVED,Within forecast budget
+18,DK1/2026-07-03/upper,2026-07-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+19,DK1/2026-07-04/median,2026-07-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+20,DK1/2026-07-04/median,2026-07-03T08:00:00Z,APPROVED,Within forecast budget
+21,DK1/2026-07-04/median,2026-07-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+22,DK1/2026-07-04/upper,2026-07-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+23,DK1/2026-07-04/upper,2026-07-03T08:00:00Z,APPROVED,Within forecast budget
+24,DK1/2026-07-04/upper,2026-07-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+25,DK1/2026-07-05/median,2026-07-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+26,DK1/2026-07-05/median,2026-07-04T08:00:00Z,APPROVED,Within forecast budget
+27,DK1/2026-07-05/median,2026-07-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+28,DK1/2026-07-05/upper,2026-07-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+29,DK1/2026-07-05/upper,2026-07-04T08:00:00Z,APPROVED,Within forecast budget
+30,DK1/2026-07-05/upper,2026-07-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+31,DK1/2026-07-06/median,2026-07-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+32,DK1/2026-07-06/median,2026-07-05T08:00:00Z,APPROVED,Within forecast budget
+33,DK1/2026-07-06/median,2026-07-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+34,DK1/2026-07-06/upper,2026-07-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+35,DK1/2026-07-06/upper,2026-07-05T08:00:00Z,APPROVED,Within forecast budget
+36,DK1/2026-07-06/upper,2026-07-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+37,DK1/2026-07-07/median,2026-07-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+38,DK1/2026-07-07/median,2026-07-06T08:00:00Z,APPROVED,Within forecast budget
+39,DK1/2026-07-07/median,2026-07-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+40,DK1/2026-07-07/upper,2026-07-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+41,DK1/2026-07-07/upper,2026-07-06T08:00:00Z,APPROVED,Within forecast budget
+42,DK1/2026-07-07/upper,2026-07-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+43,DK1/2026-07-08/median,2026-07-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+44,DK1/2026-07-08/median,2026-07-07T08:00:00Z,APPROVED,Within forecast budget
+45,DK1/2026-07-08/median,2026-07-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+46,DK1/2026-07-08/upper,2026-07-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+47,DK1/2026-07-08/upper,2026-07-07T08:00:00Z,APPROVED,Within forecast budget
+48,DK1/2026-07-08/upper,2026-07-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+49,DK1/2026-07-09/median,2026-07-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+50,DK1/2026-07-09/median,2026-07-08T08:00:00Z,APPROVED,Within forecast budget
+51,DK1/2026-07-09/median,2026-07-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+52,DK1/2026-07-09/upper,2026-07-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+53,DK1/2026-07-09/upper,2026-07-08T08:00:00Z,APPROVED,Within forecast budget
+54,DK1/2026-07-09/upper,2026-07-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+55,DK1/2026-07-10/median,2026-07-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+56,DK1/2026-07-10/median,2026-07-09T08:00:00Z,APPROVED,Within forecast budget
+57,DK1/2026-07-10/median,2026-07-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+58,DK1/2026-07-10/upper,2026-07-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+59,DK1/2026-07-10/upper,2026-07-09T08:00:00Z,APPROVED,Within forecast budget
+60,DK1/2026-07-10/upper,2026-07-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+61,DK1/2026-07-11/median,2026-07-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+62,DK1/2026-07-11/median,2026-07-10T08:00:00Z,APPROVED,Within forecast budget
+63,DK1/2026-07-11/median,2026-07-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+64,DK1/2026-07-11/upper,2026-07-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+65,DK1/2026-07-11/upper,2026-07-10T08:00:00Z,APPROVED,Within forecast budget
+66,DK1/2026-07-11/upper,2026-07-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+67,DK1/2026-07-12/median,2026-07-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+68,DK1/2026-07-12/median,2026-07-11T08:00:00Z,APPROVED,Within forecast budget
+69,DK1/2026-07-12/median,2026-07-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+70,DK1/2026-07-12/upper,2026-07-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+71,DK1/2026-07-12/upper,2026-07-11T08:00:00Z,APPROVED,Within forecast budget
+72,DK1/2026-07-12/upper,2026-07-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+73,DK1/2026-07-13/median,2026-07-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+74,DK1/2026-07-13/median,2026-07-12T08:00:00Z,APPROVED,Within forecast budget
+75,DK1/2026-07-13/median,2026-07-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+76,DK1/2026-07-13/upper,2026-07-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+77,DK1/2026-07-13/upper,2026-07-12T08:00:00Z,APPROVED,Within forecast budget
+78,DK1/2026-07-13/upper,2026-07-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+79,DK1/2026-07-14/median,2026-07-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+80,DK1/2026-07-14/median,2026-07-13T08:00:00Z,APPROVED,Within forecast budget
+81,DK1/2026-07-14/median,2026-07-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+82,DK1/2026-07-14/upper,2026-07-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+83,DK1/2026-07-14/upper,2026-07-13T08:00:00Z,APPROVED,Within forecast budget
+84,DK1/2026-07-14/upper,2026-07-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+85,DK1/2026-07-15/median,2026-07-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+86,DK1/2026-07-15/median,2026-07-14T08:00:00Z,APPROVED,Within forecast budget
+87,DK1/2026-07-15/median,2026-07-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+88,DK1/2026-07-15/upper,2026-07-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+89,DK1/2026-07-15/upper,2026-07-14T08:00:00Z,APPROVED,Within forecast budget
+90,DK1/2026-07-15/upper,2026-07-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+91,DK1/2026-07-16/median,2026-07-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+92,DK1/2026-07-16/median,2026-07-15T08:00:00Z,APPROVED,Within forecast budget
+93,DK1/2026-07-16/median,2026-07-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+94,DK1/2026-07-16/upper,2026-07-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+95,DK1/2026-07-16/upper,2026-07-15T08:00:00Z,APPROVED,Within forecast budget
+96,DK1/2026-07-16/upper,2026-07-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+97,DK1/2026-07-17/median,2026-07-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+98,DK1/2026-07-17/median,2026-07-16T08:00:00Z,APPROVED,Within forecast budget
+99,DK1/2026-07-17/median,2026-07-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+100,DK1/2026-07-17/upper,2026-07-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+101,DK1/2026-07-17/upper,2026-07-16T08:00:00Z,APPROVED,Within forecast budget
+102,DK1/2026-07-17/upper,2026-07-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+103,DK1/2026-07-18/median,2026-07-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+104,DK1/2026-07-18/median,2026-07-17T08:00:00Z,APPROVED,Within forecast budget
+105,DK1/2026-07-18/median,2026-07-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+106,DK1/2026-07-18/upper,2026-07-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+107,DK1/2026-07-18/upper,2026-07-17T08:00:00Z,APPROVED,Within forecast budget
+108,DK1/2026-07-18/upper,2026-07-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+109,DK1/2026-07-19/median,2026-07-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+110,DK1/2026-07-19/median,2026-07-18T08:00:00Z,APPROVED,Within forecast budget
+111,DK1/2026-07-19/median,2026-07-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+112,DK1/2026-07-19/upper,2026-07-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+113,DK1/2026-07-19/upper,2026-07-18T08:00:00Z,APPROVED,Within forecast budget
+114,DK1/2026-07-19/upper,2026-07-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+115,DK1/2026-07-20/median,2026-07-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+116,DK1/2026-07-20/median,2026-07-19T08:00:00Z,APPROVED,Within forecast budget
+117,DK1/2026-07-20/median,2026-07-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+118,DK1/2026-07-20/upper,2026-07-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+119,DK1/2026-07-20/upper,2026-07-19T08:00:00Z,APPROVED,Within forecast budget
+120,DK1/2026-07-20/upper,2026-07-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+121,DK1/2026-07-21/median,2026-07-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+122,DK1/2026-07-21/median,2026-07-20T08:00:00Z,APPROVED,Within forecast budget
+123,DK1/2026-07-21/median,2026-07-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+124,DK1/2026-07-21/upper,2026-07-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+125,DK1/2026-07-21/upper,2026-07-20T08:00:00Z,APPROVED,Within forecast budget
+126,DK1/2026-07-21/upper,2026-07-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+127,DK1/2026-07-22/median,2026-07-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+128,DK1/2026-07-22/median,2026-07-21T08:00:00Z,APPROVED,Within forecast budget
+129,DK1/2026-07-22/median,2026-07-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+130,DK1/2026-07-22/upper,2026-07-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+131,DK1/2026-07-22/upper,2026-07-21T08:00:00Z,APPROVED,Within forecast budget
+132,DK1/2026-07-22/upper,2026-07-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+133,DK1/2026-07-23/median,2026-07-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+134,DK1/2026-07-23/median,2026-07-22T08:00:00Z,APPROVED,Within forecast budget
+135,DK1/2026-07-23/median,2026-07-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+136,DK1/2026-07-23/upper,2026-07-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+137,DK1/2026-07-23/upper,2026-07-22T08:00:00Z,APPROVED,Within forecast budget
+138,DK1/2026-07-23/upper,2026-07-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+139,DK1/2026-07-24/median,2026-07-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+140,DK1/2026-07-24/median,2026-07-23T08:00:00Z,APPROVED,Within forecast budget
+141,DK1/2026-07-24/median,2026-07-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+142,DK1/2026-07-24/upper,2026-07-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+143,DK1/2026-07-24/upper,2026-07-23T08:00:00Z,APPROVED,Within forecast budget
+144,DK1/2026-07-24/upper,2026-07-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+145,DK1/2026-07-25/median,2026-07-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+146,DK1/2026-07-25/median,2026-07-24T08:00:00Z,APPROVED,Within forecast budget
+147,DK1/2026-07-25/median,2026-07-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+148,DK1/2026-07-25/upper,2026-07-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+149,DK1/2026-07-25/upper,2026-07-24T08:00:00Z,APPROVED,Within forecast budget
+150,DK1/2026-07-25/upper,2026-07-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+151,DK1/2026-07-26/median,2026-07-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+152,DK1/2026-07-26/median,2026-07-25T08:00:00Z,APPROVED,Within forecast budget
+153,DK1/2026-07-26/median,2026-07-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+154,DK1/2026-07-26/upper,2026-07-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+155,DK1/2026-07-26/upper,2026-07-25T08:00:00Z,APPROVED,Within forecast budget
+156,DK1/2026-07-26/upper,2026-07-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+157,DK1/2026-07-27/median,2026-07-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+158,DK1/2026-07-27/median,2026-07-26T08:00:00Z,APPROVED,Within forecast budget
+159,DK1/2026-07-27/median,2026-07-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+160,DK1/2026-07-27/upper,2026-07-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+161,DK1/2026-07-27/upper,2026-07-26T08:00:00Z,APPROVED,Within forecast budget
+162,DK1/2026-07-27/upper,2026-07-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+163,DK1/2026-07-28/median,2026-07-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+164,DK1/2026-07-28/median,2026-07-27T08:00:00Z,APPROVED,Within forecast budget
+165,DK1/2026-07-28/median,2026-07-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+166,DK1/2026-07-28/upper,2026-07-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+167,DK1/2026-07-28/upper,2026-07-27T08:00:00Z,APPROVED,Within forecast budget
+168,DK1/2026-07-28/upper,2026-07-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+169,DK1/2026-07-29/median,2026-07-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+170,DK1/2026-07-29/median,2026-07-28T08:00:00Z,APPROVED,Within forecast budget
+171,DK1/2026-07-29/median,2026-07-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+172,DK1/2026-07-29/upper,2026-07-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+173,DK1/2026-07-29/upper,2026-07-28T08:00:00Z,APPROVED,Within forecast budget
+174,DK1/2026-07-29/upper,2026-07-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+175,DK1/2026-07-30/median,2026-07-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+176,DK1/2026-07-30/median,2026-07-29T08:00:00Z,APPROVED,Within forecast budget
+177,DK1/2026-07-30/median,2026-07-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+178,DK1/2026-07-30/upper,2026-07-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+179,DK1/2026-07-30/upper,2026-07-29T08:00:00Z,APPROVED,Within forecast budget
+180,DK1/2026-07-30/upper,2026-07-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+181,DK1/2026-07-31/median,2026-07-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+182,DK1/2026-07-31/median,2026-07-30T08:00:00Z,APPROVED,Within forecast budget
+183,DK1/2026-07-31/median,2026-08-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+184,DK1/2026-07-31/upper,2026-07-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+185,DK1/2026-07-31/upper,2026-07-30T08:00:00Z,APPROVED,Within forecast budget
+186,DK1/2026-07-31/upper,2026-08-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+187,DK2/2026-07-01/median,2026-06-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+188,DK2/2026-07-01/median,2026-06-30T08:00:00Z,APPROVED,Within forecast budget
+189,DK2/2026-07-01/median,2026-07-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+190,DK2/2026-07-01/upper,2026-06-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+191,DK2/2026-07-01/upper,2026-06-30T08:00:00Z,APPROVED,Within forecast budget
+192,DK2/2026-07-01/upper,2026-07-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+193,DK2/2026-07-02/median,2026-07-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+194,DK2/2026-07-02/median,2026-07-01T08:00:00Z,APPROVED,Within forecast budget
+195,DK2/2026-07-02/median,2026-07-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+196,DK2/2026-07-02/upper,2026-07-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+197,DK2/2026-07-02/upper,2026-07-01T08:00:00Z,APPROVED,Within forecast budget
+198,DK2/2026-07-02/upper,2026-07-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+199,DK2/2026-07-03/median,2026-07-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+200,DK2/2026-07-03/median,2026-07-02T08:00:00Z,APPROVED,Within forecast budget
+201,DK2/2026-07-03/median,2026-07-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+202,DK2/2026-07-03/upper,2026-07-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+203,DK2/2026-07-03/upper,2026-07-02T08:00:00Z,APPROVED,Within forecast budget
+204,DK2/2026-07-03/upper,2026-07-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+205,DK2/2026-07-04/median,2026-07-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+206,DK2/2026-07-04/median,2026-07-03T08:00:00Z,APPROVED,Within forecast budget
+207,DK2/2026-07-04/median,2026-07-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+208,DK2/2026-07-04/upper,2026-07-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+209,DK2/2026-07-04/upper,2026-07-03T08:00:00Z,APPROVED,Within forecast budget
+210,DK2/2026-07-04/upper,2026-07-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+211,DK2/2026-07-05/median,2026-07-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+212,DK2/2026-07-05/median,2026-07-04T08:00:00Z,APPROVED,Within forecast budget
+213,DK2/2026-07-05/median,2026-07-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+214,DK2/2026-07-05/upper,2026-07-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+215,DK2/2026-07-05/upper,2026-07-04T08:00:00Z,APPROVED,Within forecast budget
+216,DK2/2026-07-05/upper,2026-07-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+217,DK2/2026-07-06/median,2026-07-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+218,DK2/2026-07-06/median,2026-07-05T08:00:00Z,APPROVED,Within forecast budget
+219,DK2/2026-07-06/median,2026-07-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+220,DK2/2026-07-06/upper,2026-07-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+221,DK2/2026-07-06/upper,2026-07-05T08:00:00Z,APPROVED,Within forecast budget
+222,DK2/2026-07-06/upper,2026-07-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+223,DK2/2026-07-07/median,2026-07-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+224,DK2/2026-07-07/median,2026-07-06T08:00:00Z,APPROVED,Within forecast budget
+225,DK2/2026-07-07/median,2026-07-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+226,DK2/2026-07-07/upper,2026-07-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+227,DK2/2026-07-07/upper,2026-07-06T08:00:00Z,APPROVED,Within forecast budget
+228,DK2/2026-07-07/upper,2026-07-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+229,DK2/2026-07-08/median,2026-07-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+230,DK2/2026-07-08/median,2026-07-07T08:00:00Z,APPROVED,Within forecast budget
+231,DK2/2026-07-08/median,2026-07-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+232,DK2/2026-07-08/upper,2026-07-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+233,DK2/2026-07-08/upper,2026-07-07T08:00:00Z,APPROVED,Within forecast budget
+234,DK2/2026-07-08/upper,2026-07-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+235,DK2/2026-07-09/median,2026-07-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+236,DK2/2026-07-09/median,2026-07-08T08:00:00Z,APPROVED,Within forecast budget
+237,DK2/2026-07-09/median,2026-07-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+238,DK2/2026-07-09/upper,2026-07-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+239,DK2/2026-07-09/upper,2026-07-08T08:00:00Z,APPROVED,Within forecast budget
+240,DK2/2026-07-09/upper,2026-07-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+241,DK2/2026-07-10/median,2026-07-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+242,DK2/2026-07-10/median,2026-07-09T08:00:00Z,APPROVED,Within forecast budget
+243,DK2/2026-07-10/median,2026-07-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+244,DK2/2026-07-10/upper,2026-07-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+245,DK2/2026-07-10/upper,2026-07-09T08:00:00Z,APPROVED,Within forecast budget
+246,DK2/2026-07-10/upper,2026-07-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+247,DK2/2026-07-11/median,2026-07-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+248,DK2/2026-07-11/median,2026-07-10T08:00:00Z,APPROVED,Within forecast budget
+249,DK2/2026-07-11/median,2026-07-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+250,DK2/2026-07-11/upper,2026-07-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+251,DK2/2026-07-11/upper,2026-07-10T08:00:00Z,APPROVED,Within forecast budget
+252,DK2/2026-07-11/upper,2026-07-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+253,DK2/2026-07-12/median,2026-07-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+254,DK2/2026-07-12/median,2026-07-11T08:00:00Z,APPROVED,Within forecast budget
+255,DK2/2026-07-12/median,2026-07-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+256,DK2/2026-07-12/upper,2026-07-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+257,DK2/2026-07-12/upper,2026-07-11T08:00:00Z,APPROVED,Within forecast budget
+258,DK2/2026-07-12/upper,2026-07-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+259,DK2/2026-07-13/median,2026-07-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+260,DK2/2026-07-13/median,2026-07-12T08:00:00Z,APPROVED,Within forecast budget
+261,DK2/2026-07-13/median,2026-07-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+262,DK2/2026-07-13/upper,2026-07-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+263,DK2/2026-07-13/upper,2026-07-12T08:00:00Z,APPROVED,Within forecast budget
+264,DK2/2026-07-13/upper,2026-07-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+265,DK2/2026-07-14/median,2026-07-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+266,DK2/2026-07-14/median,2026-07-13T08:00:00Z,APPROVED,Within forecast budget
+267,DK2/2026-07-14/median,2026-07-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+268,DK2/2026-07-14/upper,2026-07-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+269,DK2/2026-07-14/upper,2026-07-13T08:00:00Z,APPROVED,Within forecast budget
+270,DK2/2026-07-14/upper,2026-07-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+271,DK2/2026-07-15/median,2026-07-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+272,DK2/2026-07-15/median,2026-07-14T08:00:00Z,APPROVED,Within forecast budget
+273,DK2/2026-07-15/median,2026-07-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+274,DK2/2026-07-15/upper,2026-07-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+275,DK2/2026-07-15/upper,2026-07-14T08:00:00Z,APPROVED,Within forecast budget
+276,DK2/2026-07-15/upper,2026-07-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+277,DK2/2026-07-16/median,2026-07-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+278,DK2/2026-07-16/median,2026-07-15T08:00:00Z,APPROVED,Within forecast budget
+279,DK2/2026-07-16/median,2026-07-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+280,DK2/2026-07-16/upper,2026-07-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+281,DK2/2026-07-16/upper,2026-07-15T08:00:00Z,APPROVED,Within forecast budget
+282,DK2/2026-07-16/upper,2026-07-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+283,DK2/2026-07-17/median,2026-07-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+284,DK2/2026-07-17/median,2026-07-16T08:00:00Z,APPROVED,Within forecast budget
+285,DK2/2026-07-17/median,2026-07-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+286,DK2/2026-07-17/upper,2026-07-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+287,DK2/2026-07-17/upper,2026-07-16T08:00:00Z,APPROVED,Within forecast budget
+288,DK2/2026-07-17/upper,2026-07-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+289,DK2/2026-07-18/median,2026-07-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+290,DK2/2026-07-18/median,2026-07-17T08:00:00Z,APPROVED,Within forecast budget
+291,DK2/2026-07-18/median,2026-07-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+292,DK2/2026-07-18/upper,2026-07-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+293,DK2/2026-07-18/upper,2026-07-17T08:00:00Z,APPROVED,Within forecast budget
+294,DK2/2026-07-18/upper,2026-07-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+295,DK2/2026-07-19/median,2026-07-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+296,DK2/2026-07-19/median,2026-07-18T08:00:00Z,APPROVED,Within forecast budget
+297,DK2/2026-07-19/median,2026-07-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+298,DK2/2026-07-19/upper,2026-07-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+299,DK2/2026-07-19/upper,2026-07-18T08:00:00Z,APPROVED,Within forecast budget
+300,DK2/2026-07-19/upper,2026-07-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+301,DK2/2026-07-20/median,2026-07-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+302,DK2/2026-07-20/median,2026-07-19T08:00:00Z,APPROVED,Within forecast budget
+303,DK2/2026-07-20/median,2026-07-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+304,DK2/2026-07-20/upper,2026-07-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+305,DK2/2026-07-20/upper,2026-07-19T08:00:00Z,APPROVED,Within forecast budget
+306,DK2/2026-07-20/upper,2026-07-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+307,DK2/2026-07-21/median,2026-07-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+308,DK2/2026-07-21/median,2026-07-20T08:00:00Z,APPROVED,Within forecast budget
+309,DK2/2026-07-21/median,2026-07-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+310,DK2/2026-07-21/upper,2026-07-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+311,DK2/2026-07-21/upper,2026-07-20T08:00:00Z,APPROVED,Within forecast budget
+312,DK2/2026-07-21/upper,2026-07-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+313,DK2/2026-07-22/median,2026-07-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+314,DK2/2026-07-22/median,2026-07-21T08:00:00Z,APPROVED,Within forecast budget
+315,DK2/2026-07-22/median,2026-07-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+316,DK2/2026-07-22/upper,2026-07-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+317,DK2/2026-07-22/upper,2026-07-21T08:00:00Z,APPROVED,Within forecast budget
+318,DK2/2026-07-22/upper,2026-07-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+319,DK2/2026-07-23/median,2026-07-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+320,DK2/2026-07-23/median,2026-07-22T08:00:00Z,APPROVED,Within forecast budget
+321,DK2/2026-07-23/median,2026-07-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+322,DK2/2026-07-23/upper,2026-07-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+323,DK2/2026-07-23/upper,2026-07-22T08:00:00Z,APPROVED,Within forecast budget
+324,DK2/2026-07-23/upper,2026-07-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+325,DK2/2026-07-24/median,2026-07-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+326,DK2/2026-07-24/median,2026-07-23T08:00:00Z,APPROVED,Within forecast budget
+327,DK2/2026-07-24/median,2026-07-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+328,DK2/2026-07-24/upper,2026-07-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+329,DK2/2026-07-24/upper,2026-07-23T08:00:00Z,APPROVED,Within forecast budget
+330,DK2/2026-07-24/upper,2026-07-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+331,DK2/2026-07-25/median,2026-07-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+332,DK2/2026-07-25/median,2026-07-24T08:00:00Z,APPROVED,Within forecast budget
+333,DK2/2026-07-25/median,2026-07-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+334,DK2/2026-07-25/upper,2026-07-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+335,DK2/2026-07-25/upper,2026-07-24T08:00:00Z,APPROVED,Within forecast budget
+336,DK2/2026-07-25/upper,2026-07-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+337,DK2/2026-07-26/median,2026-07-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+338,DK2/2026-07-26/median,2026-07-25T08:00:00Z,APPROVED,Within forecast budget
+339,DK2/2026-07-26/median,2026-07-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+340,DK2/2026-07-26/upper,2026-07-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+341,DK2/2026-07-26/upper,2026-07-25T08:00:00Z,APPROVED,Within forecast budget
+342,DK2/2026-07-26/upper,2026-07-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+343,DK2/2026-07-27/median,2026-07-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+344,DK2/2026-07-27/median,2026-07-26T08:00:00Z,APPROVED,Within forecast budget
+345,DK2/2026-07-27/median,2026-07-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+346,DK2/2026-07-27/upper,2026-07-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+347,DK2/2026-07-27/upper,2026-07-26T08:00:00Z,APPROVED,Within forecast budget
+348,DK2/2026-07-27/upper,2026-07-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+349,DK2/2026-07-28/median,2026-07-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+350,DK2/2026-07-28/median,2026-07-27T08:00:00Z,APPROVED,Within forecast budget
+351,DK2/2026-07-28/median,2026-07-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+352,DK2/2026-07-28/upper,2026-07-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+353,DK2/2026-07-28/upper,2026-07-27T08:00:00Z,APPROVED,Within forecast budget
+354,DK2/2026-07-28/upper,2026-07-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+355,DK2/2026-07-29/median,2026-07-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+356,DK2/2026-07-29/median,2026-07-28T08:00:00Z,APPROVED,Within forecast budget
+357,DK2/2026-07-29/median,2026-07-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+358,DK2/2026-07-29/upper,2026-07-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+359,DK2/2026-07-29/upper,2026-07-28T08:00:00Z,APPROVED,Within forecast budget
+360,DK2/2026-07-29/upper,2026-07-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+361,DK2/2026-07-30/median,2026-07-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+362,DK2/2026-07-30/median,2026-07-29T08:00:00Z,APPROVED,Within forecast budget
+363,DK2/2026-07-30/median,2026-07-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+364,DK2/2026-07-30/upper,2026-07-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+365,DK2/2026-07-30/upper,2026-07-29T08:00:00Z,APPROVED,Within forecast budget
+366,DK2/2026-07-30/upper,2026-07-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+367,DK2/2026-07-31/median,2026-07-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+368,DK2/2026-07-31/median,2026-07-30T08:00:00Z,APPROVED,Within forecast budget
+369,DK2/2026-07-31/median,2026-08-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+370,DK2/2026-07-31/upper,2026-07-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+371,DK2/2026-07-31/upper,2026-07-30T08:00:00Z,APPROVED,Within forecast budget
+372,DK2/2026-07-31/upper,2026-08-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+373,DK1/2026-08-01/median,2026-07-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+374,DK1/2026-08-01/median,2026-07-31T08:00:00Z,APPROVED,Within forecast budget
+375,DK1/2026-08-01/median,2026-08-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+376,DK1/2026-08-01/upper,2026-07-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+377,DK1/2026-08-01/upper,2026-07-31T08:00:00Z,APPROVED,Within forecast budget
+378,DK1/2026-08-01/upper,2026-08-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+379,DK1/2026-08-02/median,2026-08-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+380,DK1/2026-08-02/median,2026-08-01T08:00:00Z,APPROVED,Within forecast budget
+381,DK1/2026-08-02/median,2026-08-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+382,DK1/2026-08-02/upper,2026-08-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+383,DK1/2026-08-02/upper,2026-08-01T08:00:00Z,APPROVED,Within forecast budget
+384,DK1/2026-08-02/upper,2026-08-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+385,DK1/2026-08-03/median,2026-08-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+386,DK1/2026-08-03/median,2026-08-02T08:00:00Z,APPROVED,Within forecast budget
+387,DK1/2026-08-03/median,2026-08-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+388,DK1/2026-08-03/upper,2026-08-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+389,DK1/2026-08-03/upper,2026-08-02T08:00:00Z,APPROVED,Within forecast budget
+390,DK1/2026-08-03/upper,2026-08-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+391,DK1/2026-08-04/median,2026-08-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+392,DK1/2026-08-04/median,2026-08-03T08:00:00Z,APPROVED,Within forecast budget
+393,DK1/2026-08-04/median,2026-08-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+394,DK1/2026-08-04/upper,2026-08-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+395,DK1/2026-08-04/upper,2026-08-03T08:00:00Z,APPROVED,Within forecast budget
+396,DK1/2026-08-04/upper,2026-08-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+397,DK1/2026-08-05/median,2026-08-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+398,DK1/2026-08-05/median,2026-08-04T08:00:00Z,APPROVED,Within forecast budget
+399,DK1/2026-08-05/median,2026-08-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+400,DK1/2026-08-05/upper,2026-08-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+401,DK1/2026-08-05/upper,2026-08-04T08:00:00Z,APPROVED,Within forecast budget
+402,DK1/2026-08-05/upper,2026-08-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+403,DK1/2026-08-06/median,2026-08-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+404,DK1/2026-08-06/median,2026-08-05T08:00:00Z,APPROVED,Within forecast budget
+405,DK1/2026-08-06/median,2026-08-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+406,DK1/2026-08-06/upper,2026-08-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+407,DK1/2026-08-06/upper,2026-08-05T08:00:00Z,APPROVED,Within forecast budget
+408,DK1/2026-08-06/upper,2026-08-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+409,DK1/2026-08-07/median,2026-08-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+410,DK1/2026-08-07/median,2026-08-06T08:00:00Z,APPROVED,Within forecast budget
+411,DK1/2026-08-07/median,2026-08-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+412,DK1/2026-08-07/upper,2026-08-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+413,DK1/2026-08-07/upper,2026-08-06T08:00:00Z,APPROVED,Within forecast budget
+414,DK1/2026-08-07/upper,2026-08-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+415,DK1/2026-08-08/median,2026-08-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+416,DK1/2026-08-08/median,2026-08-07T08:00:00Z,APPROVED,Within forecast budget
+417,DK1/2026-08-08/median,2026-08-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+418,DK1/2026-08-08/upper,2026-08-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+419,DK1/2026-08-08/upper,2026-08-07T08:00:00Z,APPROVED,Within forecast budget
+420,DK1/2026-08-08/upper,2026-08-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+421,DK1/2026-08-09/median,2026-08-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+422,DK1/2026-08-09/median,2026-08-08T08:00:00Z,APPROVED,Within forecast budget
+423,DK1/2026-08-09/median,2026-08-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+424,DK1/2026-08-09/upper,2026-08-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+425,DK1/2026-08-09/upper,2026-08-08T08:00:00Z,APPROVED,Within forecast budget
+426,DK1/2026-08-09/upper,2026-08-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+427,DK1/2026-08-10/median,2026-08-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+428,DK1/2026-08-10/median,2026-08-09T08:00:00Z,APPROVED,Within forecast budget
+429,DK1/2026-08-10/median,2026-08-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+430,DK1/2026-08-10/upper,2026-08-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+431,DK1/2026-08-10/upper,2026-08-09T08:00:00Z,APPROVED,Within forecast budget
+432,DK1/2026-08-10/upper,2026-08-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+433,DK1/2026-08-11/median,2026-08-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+434,DK1/2026-08-11/median,2026-08-10T08:00:00Z,APPROVED,Within forecast budget
+435,DK1/2026-08-11/median,2026-08-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+436,DK1/2026-08-11/upper,2026-08-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+437,DK1/2026-08-11/upper,2026-08-10T08:00:00Z,APPROVED,Within forecast budget
+438,DK1/2026-08-11/upper,2026-08-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+439,DK1/2026-08-12/median,2026-08-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+440,DK1/2026-08-12/median,2026-08-11T08:00:00Z,APPROVED,Within forecast budget
+441,DK1/2026-08-12/median,2026-08-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+442,DK1/2026-08-12/upper,2026-08-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+443,DK1/2026-08-12/upper,2026-08-11T08:00:00Z,APPROVED,Within forecast budget
+444,DK1/2026-08-12/upper,2026-08-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+445,DK1/2026-08-13/median,2026-08-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+446,DK1/2026-08-13/median,2026-08-12T08:00:00Z,APPROVED,Within forecast budget
+447,DK1/2026-08-13/median,2026-08-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+448,DK1/2026-08-13/upper,2026-08-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+449,DK1/2026-08-13/upper,2026-08-12T08:00:00Z,APPROVED,Within forecast budget
+450,DK1/2026-08-13/upper,2026-08-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+451,DK1/2026-08-14/median,2026-08-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+452,DK1/2026-08-14/median,2026-08-13T08:00:00Z,APPROVED,Within forecast budget
+453,DK1/2026-08-14/median,2026-08-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+454,DK1/2026-08-14/upper,2026-08-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+455,DK1/2026-08-14/upper,2026-08-13T08:00:00Z,APPROVED,Within forecast budget
+456,DK1/2026-08-14/upper,2026-08-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+457,DK1/2026-08-15/median,2026-08-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+458,DK1/2026-08-15/median,2026-08-14T08:00:00Z,APPROVED,Within forecast budget
+459,DK1/2026-08-15/median,2026-08-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+460,DK1/2026-08-15/upper,2026-08-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+461,DK1/2026-08-15/upper,2026-08-14T08:00:00Z,APPROVED,Within forecast budget
+462,DK1/2026-08-15/upper,2026-08-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+463,DK1/2026-08-16/median,2026-08-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+464,DK1/2026-08-16/median,2026-08-15T08:00:00Z,APPROVED,Within forecast budget
+465,DK1/2026-08-16/median,2026-08-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+466,DK1/2026-08-16/upper,2026-08-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+467,DK1/2026-08-16/upper,2026-08-15T08:00:00Z,APPROVED,Within forecast budget
+468,DK1/2026-08-16/upper,2026-08-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+469,DK1/2026-08-17/median,2026-08-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+470,DK1/2026-08-17/median,2026-08-16T08:00:00Z,APPROVED,Within forecast budget
+471,DK1/2026-08-17/median,2026-08-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+472,DK1/2026-08-17/upper,2026-08-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+473,DK1/2026-08-17/upper,2026-08-16T08:00:00Z,APPROVED,Within forecast budget
+474,DK1/2026-08-17/upper,2026-08-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+475,DK1/2026-08-18/median,2026-08-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+476,DK1/2026-08-18/median,2026-08-17T08:00:00Z,APPROVED,Within forecast budget
+477,DK1/2026-08-18/median,2026-08-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+478,DK1/2026-08-18/upper,2026-08-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+479,DK1/2026-08-18/upper,2026-08-17T08:00:00Z,APPROVED,Within forecast budget
+480,DK1/2026-08-18/upper,2026-08-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+481,DK1/2026-08-19/median,2026-08-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+482,DK1/2026-08-19/median,2026-08-18T08:00:00Z,APPROVED,Within forecast budget
+483,DK1/2026-08-19/median,2026-08-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+484,DK1/2026-08-19/upper,2026-08-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+485,DK1/2026-08-19/upper,2026-08-18T08:00:00Z,APPROVED,Within forecast budget
+486,DK1/2026-08-19/upper,2026-08-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+487,DK1/2026-08-20/median,2026-08-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+488,DK1/2026-08-20/median,2026-08-19T08:00:00Z,APPROVED,Within forecast budget
+489,DK1/2026-08-20/median,2026-08-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+490,DK1/2026-08-20/upper,2026-08-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+491,DK1/2026-08-20/upper,2026-08-19T08:00:00Z,APPROVED,Within forecast budget
+492,DK1/2026-08-20/upper,2026-08-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+493,DK1/2026-08-21/median,2026-08-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+494,DK1/2026-08-21/median,2026-08-20T08:00:00Z,APPROVED,Within forecast budget
+495,DK1/2026-08-21/median,2026-08-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+496,DK1/2026-08-21/upper,2026-08-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+497,DK1/2026-08-21/upper,2026-08-20T08:00:00Z,APPROVED,Within forecast budget
+498,DK1/2026-08-21/upper,2026-08-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+499,DK1/2026-08-22/median,2026-08-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+500,DK1/2026-08-22/median,2026-08-21T08:00:00Z,APPROVED,Within forecast budget
+501,DK1/2026-08-22/median,2026-08-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+502,DK1/2026-08-22/upper,2026-08-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+503,DK1/2026-08-22/upper,2026-08-21T08:00:00Z,APPROVED,Within forecast budget
+504,DK1/2026-08-22/upper,2026-08-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+505,DK1/2026-08-23/median,2026-08-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+506,DK1/2026-08-23/median,2026-08-22T08:00:00Z,APPROVED,Within forecast budget
+507,DK1/2026-08-23/median,2026-08-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+508,DK1/2026-08-23/upper,2026-08-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+509,DK1/2026-08-23/upper,2026-08-22T08:00:00Z,APPROVED,Within forecast budget
+510,DK1/2026-08-23/upper,2026-08-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+511,DK1/2026-08-24/median,2026-08-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+512,DK1/2026-08-24/median,2026-08-23T08:00:00Z,APPROVED,Within forecast budget
+513,DK1/2026-08-24/median,2026-08-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+514,DK1/2026-08-24/upper,2026-08-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+515,DK1/2026-08-24/upper,2026-08-23T08:00:00Z,APPROVED,Within forecast budget
+516,DK1/2026-08-24/upper,2026-08-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+517,DK1/2026-08-25/median,2026-08-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+518,DK1/2026-08-25/median,2026-08-24T08:00:00Z,APPROVED,Within forecast budget
+519,DK1/2026-08-25/median,2026-08-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+520,DK1/2026-08-25/upper,2026-08-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+521,DK1/2026-08-25/upper,2026-08-24T08:00:00Z,APPROVED,Within forecast budget
+522,DK1/2026-08-25/upper,2026-08-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+523,DK1/2026-08-26/median,2026-08-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+524,DK1/2026-08-26/median,2026-08-25T08:00:00Z,APPROVED,Within forecast budget
+525,DK1/2026-08-26/median,2026-08-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+526,DK1/2026-08-26/upper,2026-08-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+527,DK1/2026-08-26/upper,2026-08-25T08:00:00Z,APPROVED,Within forecast budget
+528,DK1/2026-08-26/upper,2026-08-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+529,DK1/2026-08-27/median,2026-08-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+530,DK1/2026-08-27/median,2026-08-26T08:00:00Z,APPROVED,Within forecast budget
+531,DK1/2026-08-27/median,2026-08-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+532,DK1/2026-08-27/upper,2026-08-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+533,DK1/2026-08-27/upper,2026-08-26T08:00:00Z,APPROVED,Within forecast budget
+534,DK1/2026-08-27/upper,2026-08-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+535,DK1/2026-08-28/median,2026-08-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+536,DK1/2026-08-28/median,2026-08-27T08:00:00Z,APPROVED,Within forecast budget
+537,DK1/2026-08-28/median,2026-08-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+538,DK1/2026-08-28/upper,2026-08-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+539,DK1/2026-08-28/upper,2026-08-27T08:00:00Z,APPROVED,Within forecast budget
+540,DK1/2026-08-28/upper,2026-08-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+541,DK1/2026-08-29/median,2026-08-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+542,DK1/2026-08-29/median,2026-08-28T08:00:00Z,APPROVED,Within forecast budget
+543,DK1/2026-08-29/median,2026-08-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+544,DK1/2026-08-29/upper,2026-08-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+545,DK1/2026-08-29/upper,2026-08-28T08:00:00Z,APPROVED,Within forecast budget
+546,DK1/2026-08-29/upper,2026-08-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+547,DK1/2026-08-30/median,2026-08-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+548,DK1/2026-08-30/median,2026-08-29T08:00:00Z,APPROVED,Within forecast budget
+549,DK1/2026-08-30/median,2026-08-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+550,DK1/2026-08-30/upper,2026-08-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+551,DK1/2026-08-30/upper,2026-08-29T08:00:00Z,APPROVED,Within forecast budget
+552,DK1/2026-08-30/upper,2026-08-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+553,DK1/2026-08-31/median,2026-08-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+554,DK1/2026-08-31/median,2026-08-30T08:00:00Z,APPROVED,Within forecast budget
+555,DK1/2026-08-31/median,2026-09-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+556,DK1/2026-08-31/upper,2026-08-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+557,DK1/2026-08-31/upper,2026-08-30T08:00:00Z,APPROVED,Within forecast budget
+558,DK1/2026-08-31/upper,2026-09-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+559,DK2/2026-08-01/median,2026-07-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+560,DK2/2026-08-01/median,2026-07-31T08:00:00Z,APPROVED,Within forecast budget
+561,DK2/2026-08-01/median,2026-08-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+562,DK2/2026-08-01/upper,2026-07-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+563,DK2/2026-08-01/upper,2026-07-31T08:00:00Z,APPROVED,Within forecast budget
+564,DK2/2026-08-01/upper,2026-08-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+565,DK2/2026-08-02/median,2026-08-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+566,DK2/2026-08-02/median,2026-08-01T08:00:00Z,APPROVED,Within forecast budget
+567,DK2/2026-08-02/median,2026-08-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+568,DK2/2026-08-02/upper,2026-08-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+569,DK2/2026-08-02/upper,2026-08-01T08:00:00Z,APPROVED,Within forecast budget
+570,DK2/2026-08-02/upper,2026-08-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+571,DK2/2026-08-03/median,2026-08-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+572,DK2/2026-08-03/median,2026-08-02T08:00:00Z,APPROVED,Within forecast budget
+573,DK2/2026-08-03/median,2026-08-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+574,DK2/2026-08-03/upper,2026-08-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+575,DK2/2026-08-03/upper,2026-08-02T08:00:00Z,APPROVED,Within forecast budget
+576,DK2/2026-08-03/upper,2026-08-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+577,DK2/2026-08-04/median,2026-08-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+578,DK2/2026-08-04/median,2026-08-03T08:00:00Z,APPROVED,Within forecast budget
+579,DK2/2026-08-04/median,2026-08-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+580,DK2/2026-08-04/upper,2026-08-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+581,DK2/2026-08-04/upper,2026-08-03T08:00:00Z,APPROVED,Within forecast budget
+582,DK2/2026-08-04/upper,2026-08-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+583,DK2/2026-08-05/median,2026-08-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+584,DK2/2026-08-05/median,2026-08-04T08:00:00Z,APPROVED,Within forecast budget
+585,DK2/2026-08-05/median,2026-08-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+586,DK2/2026-08-05/upper,2026-08-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+587,DK2/2026-08-05/upper,2026-08-04T08:00:00Z,APPROVED,Within forecast budget
+588,DK2/2026-08-05/upper,2026-08-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+589,DK2/2026-08-06/median,2026-08-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+590,DK2/2026-08-06/median,2026-08-05T08:00:00Z,APPROVED,Within forecast budget
+591,DK2/2026-08-06/median,2026-08-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+592,DK2/2026-08-06/upper,2026-08-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+593,DK2/2026-08-06/upper,2026-08-05T08:00:00Z,APPROVED,Within forecast budget
+594,DK2/2026-08-06/upper,2026-08-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+595,DK2/2026-08-07/median,2026-08-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+596,DK2/2026-08-07/median,2026-08-06T08:00:00Z,APPROVED,Within forecast budget
+597,DK2/2026-08-07/median,2026-08-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+598,DK2/2026-08-07/upper,2026-08-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+599,DK2/2026-08-07/upper,2026-08-06T08:00:00Z,APPROVED,Within forecast budget
+600,DK2/2026-08-07/upper,2026-08-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+601,DK2/2026-08-08/median,2026-08-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+602,DK2/2026-08-08/median,2026-08-07T08:00:00Z,APPROVED,Within forecast budget
+603,DK2/2026-08-08/median,2026-08-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+604,DK2/2026-08-08/upper,2026-08-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+605,DK2/2026-08-08/upper,2026-08-07T08:00:00Z,APPROVED,Within forecast budget
+606,DK2/2026-08-08/upper,2026-08-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+607,DK2/2026-08-09/median,2026-08-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+608,DK2/2026-08-09/median,2026-08-08T08:00:00Z,APPROVED,Within forecast budget
+609,DK2/2026-08-09/median,2026-08-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+610,DK2/2026-08-09/upper,2026-08-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+611,DK2/2026-08-09/upper,2026-08-08T08:00:00Z,APPROVED,Within forecast budget
+612,DK2/2026-08-09/upper,2026-08-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+613,DK2/2026-08-10/median,2026-08-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+614,DK2/2026-08-10/median,2026-08-09T08:00:00Z,APPROVED,Within forecast budget
+615,DK2/2026-08-10/median,2026-08-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+616,DK2/2026-08-10/upper,2026-08-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+617,DK2/2026-08-10/upper,2026-08-09T08:00:00Z,APPROVED,Within forecast budget
+618,DK2/2026-08-10/upper,2026-08-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+619,DK2/2026-08-11/median,2026-08-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+620,DK2/2026-08-11/median,2026-08-10T08:00:00Z,APPROVED,Within forecast budget
+621,DK2/2026-08-11/median,2026-08-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+622,DK2/2026-08-11/upper,2026-08-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+623,DK2/2026-08-11/upper,2026-08-10T08:00:00Z,APPROVED,Within forecast budget
+624,DK2/2026-08-11/upper,2026-08-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+625,DK2/2026-08-12/median,2026-08-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+626,DK2/2026-08-12/median,2026-08-11T08:00:00Z,APPROVED,Within forecast budget
+627,DK2/2026-08-12/median,2026-08-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+628,DK2/2026-08-12/upper,2026-08-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+629,DK2/2026-08-12/upper,2026-08-11T08:00:00Z,APPROVED,Within forecast budget
+630,DK2/2026-08-12/upper,2026-08-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+631,DK2/2026-08-13/median,2026-08-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+632,DK2/2026-08-13/median,2026-08-12T08:00:00Z,APPROVED,Within forecast budget
+633,DK2/2026-08-13/median,2026-08-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+634,DK2/2026-08-13/upper,2026-08-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+635,DK2/2026-08-13/upper,2026-08-12T08:00:00Z,APPROVED,Within forecast budget
+636,DK2/2026-08-13/upper,2026-08-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+637,DK2/2026-08-14/median,2026-08-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+638,DK2/2026-08-14/median,2026-08-13T08:00:00Z,APPROVED,Within forecast budget
+639,DK2/2026-08-14/median,2026-08-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+640,DK2/2026-08-14/upper,2026-08-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+641,DK2/2026-08-14/upper,2026-08-13T08:00:00Z,APPROVED,Within forecast budget
+642,DK2/2026-08-14/upper,2026-08-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+643,DK2/2026-08-15/median,2026-08-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+644,DK2/2026-08-15/median,2026-08-14T08:00:00Z,APPROVED,Within forecast budget
+645,DK2/2026-08-15/median,2026-08-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+646,DK2/2026-08-15/upper,2026-08-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+647,DK2/2026-08-15/upper,2026-08-14T08:00:00Z,APPROVED,Within forecast budget
+648,DK2/2026-08-15/upper,2026-08-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+649,DK2/2026-08-16/median,2026-08-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+650,DK2/2026-08-16/median,2026-08-15T08:00:00Z,APPROVED,Within forecast budget
+651,DK2/2026-08-16/median,2026-08-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+652,DK2/2026-08-16/upper,2026-08-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+653,DK2/2026-08-16/upper,2026-08-15T08:00:00Z,APPROVED,Within forecast budget
+654,DK2/2026-08-16/upper,2026-08-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+655,DK2/2026-08-17/median,2026-08-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+656,DK2/2026-08-17/median,2026-08-16T08:00:00Z,APPROVED,Within forecast budget
+657,DK2/2026-08-17/median,2026-08-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+658,DK2/2026-08-17/upper,2026-08-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+659,DK2/2026-08-17/upper,2026-08-16T08:00:00Z,APPROVED,Within forecast budget
+660,DK2/2026-08-17/upper,2026-08-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+661,DK2/2026-08-18/median,2026-08-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+662,DK2/2026-08-18/median,2026-08-17T08:00:00Z,APPROVED,Within forecast budget
+663,DK2/2026-08-18/median,2026-08-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+664,DK2/2026-08-18/upper,2026-08-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+665,DK2/2026-08-18/upper,2026-08-17T08:00:00Z,APPROVED,Within forecast budget
+666,DK2/2026-08-18/upper,2026-08-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+667,DK2/2026-08-19/median,2026-08-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+668,DK2/2026-08-19/median,2026-08-18T08:00:00Z,APPROVED,Within forecast budget
+669,DK2/2026-08-19/median,2026-08-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+670,DK2/2026-08-19/upper,2026-08-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+671,DK2/2026-08-19/upper,2026-08-18T08:00:00Z,APPROVED,Within forecast budget
+672,DK2/2026-08-19/upper,2026-08-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+673,DK2/2026-08-20/median,2026-08-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+674,DK2/2026-08-20/median,2026-08-19T08:00:00Z,APPROVED,Within forecast budget
+675,DK2/2026-08-20/median,2026-08-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+676,DK2/2026-08-20/upper,2026-08-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+677,DK2/2026-08-20/upper,2026-08-19T08:00:00Z,APPROVED,Within forecast budget
+678,DK2/2026-08-20/upper,2026-08-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+679,DK2/2026-08-21/median,2026-08-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+680,DK2/2026-08-21/median,2026-08-20T08:00:00Z,APPROVED,Within forecast budget
+681,DK2/2026-08-21/median,2026-08-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+682,DK2/2026-08-21/upper,2026-08-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+683,DK2/2026-08-21/upper,2026-08-20T08:00:00Z,APPROVED,Within forecast budget
+684,DK2/2026-08-21/upper,2026-08-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+685,DK2/2026-08-22/median,2026-08-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+686,DK2/2026-08-22/median,2026-08-21T08:00:00Z,APPROVED,Within forecast budget
+687,DK2/2026-08-22/median,2026-08-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+688,DK2/2026-08-22/upper,2026-08-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+689,DK2/2026-08-22/upper,2026-08-21T08:00:00Z,APPROVED,Within forecast budget
+690,DK2/2026-08-22/upper,2026-08-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+691,DK2/2026-08-23/median,2026-08-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+692,DK2/2026-08-23/median,2026-08-22T08:00:00Z,APPROVED,Within forecast budget
+693,DK2/2026-08-23/median,2026-08-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+694,DK2/2026-08-23/upper,2026-08-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+695,DK2/2026-08-23/upper,2026-08-22T08:00:00Z,APPROVED,Within forecast budget
+696,DK2/2026-08-23/upper,2026-08-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+697,DK2/2026-08-24/median,2026-08-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+698,DK2/2026-08-24/median,2026-08-23T08:00:00Z,APPROVED,Within forecast budget
+699,DK2/2026-08-24/median,2026-08-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+700,DK2/2026-08-24/upper,2026-08-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+701,DK2/2026-08-24/upper,2026-08-23T08:00:00Z,APPROVED,Within forecast budget
+702,DK2/2026-08-24/upper,2026-08-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+703,DK2/2026-08-25/median,2026-08-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+704,DK2/2026-08-25/median,2026-08-24T08:00:00Z,APPROVED,Within forecast budget
+705,DK2/2026-08-25/median,2026-08-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+706,DK2/2026-08-25/upper,2026-08-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+707,DK2/2026-08-25/upper,2026-08-24T08:00:00Z,APPROVED,Within forecast budget
+708,DK2/2026-08-25/upper,2026-08-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+709,DK2/2026-08-26/median,2026-08-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+710,DK2/2026-08-26/median,2026-08-25T08:00:00Z,APPROVED,Within forecast budget
+711,DK2/2026-08-26/median,2026-08-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+712,DK2/2026-08-26/upper,2026-08-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+713,DK2/2026-08-26/upper,2026-08-25T08:00:00Z,APPROVED,Within forecast budget
+714,DK2/2026-08-26/upper,2026-08-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+715,DK2/2026-08-27/median,2026-08-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+716,DK2/2026-08-27/median,2026-08-26T08:00:00Z,APPROVED,Within forecast budget
+717,DK2/2026-08-27/median,2026-08-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+718,DK2/2026-08-27/upper,2026-08-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+719,DK2/2026-08-27/upper,2026-08-26T08:00:00Z,APPROVED,Within forecast budget
+720,DK2/2026-08-27/upper,2026-08-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+721,DK2/2026-08-28/median,2026-08-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+722,DK2/2026-08-28/median,2026-08-27T08:00:00Z,APPROVED,Within forecast budget
+723,DK2/2026-08-28/median,2026-08-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+724,DK2/2026-08-28/upper,2026-08-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+725,DK2/2026-08-28/upper,2026-08-27T08:00:00Z,APPROVED,Within forecast budget
+726,DK2/2026-08-28/upper,2026-08-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+727,DK2/2026-08-29/median,2026-08-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+728,DK2/2026-08-29/median,2026-08-28T08:00:00Z,APPROVED,Within forecast budget
+729,DK2/2026-08-29/median,2026-08-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+730,DK2/2026-08-29/upper,2026-08-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+731,DK2/2026-08-29/upper,2026-08-28T08:00:00Z,APPROVED,Within forecast budget
+732,DK2/2026-08-29/upper,2026-08-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+733,DK2/2026-08-30/median,2026-08-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+734,DK2/2026-08-30/median,2026-08-29T08:00:00Z,APPROVED,Within forecast budget
+735,DK2/2026-08-30/median,2026-08-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+736,DK2/2026-08-30/upper,2026-08-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+737,DK2/2026-08-30/upper,2026-08-29T08:00:00Z,APPROVED,Within forecast budget
+738,DK2/2026-08-30/upper,2026-08-31T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+739,DK2/2026-08-31/median,2026-08-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+740,DK2/2026-08-31/median,2026-08-30T08:00:00Z,APPROVED,Within forecast budget
+741,DK2/2026-08-31/median,2026-09-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+742,DK2/2026-08-31/upper,2026-08-30T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+743,DK2/2026-08-31/upper,2026-08-30T08:00:00Z,APPROVED,Within forecast budget
+744,DK2/2026-08-31/upper,2026-09-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+745,DK1/2026-09-01/median,2026-08-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+746,DK1/2026-09-01/median,2026-08-31T08:00:00Z,APPROVED,Within forecast budget
+747,DK1/2026-09-01/median,2026-09-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+748,DK1/2026-09-01/upper,2026-08-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+749,DK1/2026-09-01/upper,2026-08-31T08:00:00Z,APPROVED,Within forecast budget
+750,DK1/2026-09-01/upper,2026-09-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+751,DK1/2026-09-02/median,2026-09-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+752,DK1/2026-09-02/median,2026-09-01T08:00:00Z,APPROVED,Within forecast budget
+753,DK1/2026-09-02/median,2026-09-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+754,DK1/2026-09-02/upper,2026-09-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+755,DK1/2026-09-02/upper,2026-09-01T08:00:00Z,APPROVED,Within forecast budget
+756,DK1/2026-09-02/upper,2026-09-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+757,DK1/2026-09-03/median,2026-09-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+758,DK1/2026-09-03/median,2026-09-02T08:00:00Z,APPROVED,Within forecast budget
+759,DK1/2026-09-03/median,2026-09-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+760,DK1/2026-09-03/upper,2026-09-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+761,DK1/2026-09-03/upper,2026-09-02T08:00:00Z,APPROVED,Within forecast budget
+762,DK1/2026-09-03/upper,2026-09-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+763,DK1/2026-09-04/median,2026-09-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+764,DK1/2026-09-04/median,2026-09-03T08:00:00Z,APPROVED,Within forecast budget
+765,DK1/2026-09-04/median,2026-09-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+766,DK1/2026-09-04/upper,2026-09-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+767,DK1/2026-09-04/upper,2026-09-03T08:00:00Z,APPROVED,Within forecast budget
+768,DK1/2026-09-04/upper,2026-09-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+769,DK1/2026-09-05/median,2026-09-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+770,DK1/2026-09-05/median,2026-09-04T08:00:00Z,APPROVED,Within forecast budget
+771,DK1/2026-09-05/median,2026-09-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+772,DK1/2026-09-05/upper,2026-09-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+773,DK1/2026-09-05/upper,2026-09-04T08:00:00Z,APPROVED,Within forecast budget
+774,DK1/2026-09-05/upper,2026-09-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+775,DK1/2026-09-06/median,2026-09-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+776,DK1/2026-09-06/median,2026-09-05T08:00:00Z,APPROVED,Within forecast budget
+777,DK1/2026-09-06/median,2026-09-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+778,DK1/2026-09-06/upper,2026-09-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+779,DK1/2026-09-06/upper,2026-09-05T08:00:00Z,APPROVED,Within forecast budget
+780,DK1/2026-09-06/upper,2026-09-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+781,DK1/2026-09-07/median,2026-09-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+782,DK1/2026-09-07/median,2026-09-06T08:00:00Z,APPROVED,Within forecast budget
+783,DK1/2026-09-07/median,2026-09-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+784,DK1/2026-09-07/upper,2026-09-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+785,DK1/2026-09-07/upper,2026-09-06T08:00:00Z,APPROVED,Within forecast budget
+786,DK1/2026-09-07/upper,2026-09-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+787,DK1/2026-09-08/median,2026-09-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+788,DK1/2026-09-08/median,2026-09-07T08:00:00Z,APPROVED,Within forecast budget
+789,DK1/2026-09-08/median,2026-09-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+790,DK1/2026-09-08/upper,2026-09-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+791,DK1/2026-09-08/upper,2026-09-07T08:00:00Z,APPROVED,Within forecast budget
+792,DK1/2026-09-08/upper,2026-09-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+793,DK1/2026-09-09/median,2026-09-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+794,DK1/2026-09-09/median,2026-09-08T08:00:00Z,APPROVED,Within forecast budget
+795,DK1/2026-09-09/median,2026-09-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+796,DK1/2026-09-09/upper,2026-09-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+797,DK1/2026-09-09/upper,2026-09-08T08:00:00Z,APPROVED,Within forecast budget
+798,DK1/2026-09-09/upper,2026-09-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+799,DK1/2026-09-10/median,2026-09-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+800,DK1/2026-09-10/median,2026-09-09T08:00:00Z,APPROVED,Within forecast budget
+801,DK1/2026-09-10/median,2026-09-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+802,DK1/2026-09-10/upper,2026-09-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+803,DK1/2026-09-10/upper,2026-09-09T08:00:00Z,APPROVED,Within forecast budget
+804,DK1/2026-09-10/upper,2026-09-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+805,DK1/2026-09-11/median,2026-09-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+806,DK1/2026-09-11/median,2026-09-10T08:00:00Z,APPROVED,Within forecast budget
+807,DK1/2026-09-11/median,2026-09-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+808,DK1/2026-09-11/upper,2026-09-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+809,DK1/2026-09-11/upper,2026-09-10T08:00:00Z,APPROVED,Within forecast budget
+810,DK1/2026-09-11/upper,2026-09-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+811,DK1/2026-09-12/median,2026-09-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+812,DK1/2026-09-12/median,2026-09-11T08:00:00Z,APPROVED,Within forecast budget
+813,DK1/2026-09-12/median,2026-09-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+814,DK1/2026-09-12/upper,2026-09-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+815,DK1/2026-09-12/upper,2026-09-11T08:00:00Z,APPROVED,Within forecast budget
+816,DK1/2026-09-12/upper,2026-09-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+817,DK1/2026-09-13/median,2026-09-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+818,DK1/2026-09-13/median,2026-09-12T08:00:00Z,APPROVED,Within forecast budget
+819,DK1/2026-09-13/median,2026-09-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+820,DK1/2026-09-13/upper,2026-09-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+821,DK1/2026-09-13/upper,2026-09-12T08:00:00Z,APPROVED,Within forecast budget
+822,DK1/2026-09-13/upper,2026-09-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+823,DK1/2026-09-14/median,2026-09-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+824,DK1/2026-09-14/median,2026-09-13T08:00:00Z,APPROVED,Within forecast budget
+825,DK1/2026-09-14/median,2026-09-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+826,DK1/2026-09-14/upper,2026-09-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+827,DK1/2026-09-14/upper,2026-09-13T08:00:00Z,APPROVED,Within forecast budget
+828,DK1/2026-09-14/upper,2026-09-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+829,DK1/2026-09-15/median,2026-09-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+830,DK1/2026-09-15/median,2026-09-14T08:00:00Z,APPROVED,Within forecast budget
+831,DK1/2026-09-15/median,2026-09-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+832,DK1/2026-09-15/upper,2026-09-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+833,DK1/2026-09-15/upper,2026-09-14T08:00:00Z,APPROVED,Within forecast budget
+834,DK1/2026-09-15/upper,2026-09-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+835,DK1/2026-09-16/median,2026-09-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+836,DK1/2026-09-16/median,2026-09-15T08:00:00Z,APPROVED,Within forecast budget
+837,DK1/2026-09-16/median,2026-09-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+838,DK1/2026-09-16/upper,2026-09-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+839,DK1/2026-09-16/upper,2026-09-15T08:00:00Z,APPROVED,Within forecast budget
+840,DK1/2026-09-16/upper,2026-09-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+841,DK1/2026-09-17/median,2026-09-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+842,DK1/2026-09-17/median,2026-09-16T08:00:00Z,APPROVED,Within forecast budget
+843,DK1/2026-09-17/median,2026-09-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+844,DK1/2026-09-17/upper,2026-09-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+845,DK1/2026-09-17/upper,2026-09-16T08:00:00Z,APPROVED,Within forecast budget
+846,DK1/2026-09-17/upper,2026-09-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+847,DK1/2026-09-18/median,2026-09-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+848,DK1/2026-09-18/median,2026-09-17T08:00:00Z,APPROVED,Within forecast budget
+849,DK1/2026-09-18/median,2026-09-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+850,DK1/2026-09-18/upper,2026-09-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+851,DK1/2026-09-18/upper,2026-09-17T08:00:00Z,APPROVED,Within forecast budget
+852,DK1/2026-09-18/upper,2026-09-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+853,DK1/2026-09-19/median,2026-09-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+854,DK1/2026-09-19/median,2026-09-18T08:00:00Z,APPROVED,Within forecast budget
+855,DK1/2026-09-19/median,2026-09-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+856,DK1/2026-09-19/upper,2026-09-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+857,DK1/2026-09-19/upper,2026-09-18T08:00:00Z,APPROVED,Within forecast budget
+858,DK1/2026-09-19/upper,2026-09-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+859,DK1/2026-09-20/median,2026-09-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+860,DK1/2026-09-20/median,2026-09-19T08:00:00Z,APPROVED,Within forecast budget
+861,DK1/2026-09-20/median,2026-09-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+862,DK1/2026-09-20/upper,2026-09-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+863,DK1/2026-09-20/upper,2026-09-19T08:00:00Z,APPROVED,Within forecast budget
+864,DK1/2026-09-20/upper,2026-09-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+865,DK1/2026-09-21/median,2026-09-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+866,DK1/2026-09-21/median,2026-09-20T08:00:00Z,APPROVED,Within forecast budget
+867,DK1/2026-09-21/median,2026-09-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+868,DK1/2026-09-21/upper,2026-09-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+869,DK1/2026-09-21/upper,2026-09-20T08:00:00Z,APPROVED,Within forecast budget
+870,DK1/2026-09-21/upper,2026-09-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+871,DK1/2026-09-22/median,2026-09-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+872,DK1/2026-09-22/median,2026-09-21T08:00:00Z,APPROVED,Within forecast budget
+873,DK1/2026-09-22/median,2026-09-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+874,DK1/2026-09-22/upper,2026-09-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+875,DK1/2026-09-22/upper,2026-09-21T08:00:00Z,APPROVED,Within forecast budget
+876,DK1/2026-09-22/upper,2026-09-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+877,DK1/2026-09-23/median,2026-09-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+878,DK1/2026-09-23/median,2026-09-22T08:00:00Z,APPROVED,Within forecast budget
+879,DK1/2026-09-23/median,2026-09-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+880,DK1/2026-09-23/upper,2026-09-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+881,DK1/2026-09-23/upper,2026-09-22T08:00:00Z,APPROVED,Within forecast budget
+882,DK1/2026-09-23/upper,2026-09-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+883,DK1/2026-09-24/median,2026-09-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+884,DK1/2026-09-24/median,2026-09-23T08:00:00Z,APPROVED,Within forecast budget
+885,DK1/2026-09-24/median,2026-09-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+886,DK1/2026-09-24/upper,2026-09-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+887,DK1/2026-09-24/upper,2026-09-23T08:00:00Z,APPROVED,Within forecast budget
+888,DK1/2026-09-24/upper,2026-09-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+889,DK1/2026-09-25/median,2026-09-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+890,DK1/2026-09-25/median,2026-09-24T08:00:00Z,APPROVED,Within forecast budget
+891,DK1/2026-09-25/median,2026-09-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+892,DK1/2026-09-25/upper,2026-09-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+893,DK1/2026-09-25/upper,2026-09-24T08:00:00Z,APPROVED,Within forecast budget
+894,DK1/2026-09-25/upper,2026-09-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+895,DK1/2026-09-26/median,2026-09-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+896,DK1/2026-09-26/median,2026-09-25T08:00:00Z,APPROVED,Within forecast budget
+897,DK1/2026-09-26/median,2026-09-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+898,DK1/2026-09-26/upper,2026-09-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+899,DK1/2026-09-26/upper,2026-09-25T08:00:00Z,APPROVED,Within forecast budget
+900,DK1/2026-09-26/upper,2026-09-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+901,DK1/2026-09-27/median,2026-09-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+902,DK1/2026-09-27/median,2026-09-26T08:00:00Z,APPROVED,Within forecast budget
+903,DK1/2026-09-27/median,2026-09-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+904,DK1/2026-09-27/upper,2026-09-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+905,DK1/2026-09-27/upper,2026-09-26T08:00:00Z,APPROVED,Within forecast budget
+906,DK1/2026-09-27/upper,2026-09-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+907,DK1/2026-09-28/median,2026-09-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+908,DK1/2026-09-28/median,2026-09-27T08:00:00Z,APPROVED,Within forecast budget
+909,DK1/2026-09-28/median,2026-09-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+910,DK1/2026-09-28/upper,2026-09-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+911,DK1/2026-09-28/upper,2026-09-27T08:00:00Z,APPROVED,Within forecast budget
+912,DK1/2026-09-28/upper,2026-09-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+913,DK1/2026-09-29/median,2026-09-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+914,DK1/2026-09-29/median,2026-09-28T08:00:00Z,APPROVED,Within forecast budget
+915,DK1/2026-09-29/median,2026-09-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+916,DK1/2026-09-29/upper,2026-09-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+917,DK1/2026-09-29/upper,2026-09-28T08:00:00Z,APPROVED,Within forecast budget
+918,DK1/2026-09-29/upper,2026-09-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+919,DK1/2026-09-30/median,2026-09-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+920,DK1/2026-09-30/median,2026-09-29T08:00:00Z,APPROVED,Within forecast budget
+921,DK1/2026-09-30/median,2026-10-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+922,DK1/2026-09-30/upper,2026-09-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+923,DK1/2026-09-30/upper,2026-09-29T08:00:00Z,APPROVED,Within forecast budget
+924,DK1/2026-09-30/upper,2026-10-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+925,DK2/2026-09-01/median,2026-08-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+926,DK2/2026-09-01/median,2026-08-31T08:00:00Z,APPROVED,Within forecast budget
+927,DK2/2026-09-01/median,2026-09-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+928,DK2/2026-09-01/upper,2026-08-31T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+929,DK2/2026-09-01/upper,2026-08-31T08:00:00Z,APPROVED,Within forecast budget
+930,DK2/2026-09-01/upper,2026-09-02T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+931,DK2/2026-09-02/median,2026-09-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+932,DK2/2026-09-02/median,2026-09-01T08:00:00Z,APPROVED,Within forecast budget
+933,DK2/2026-09-02/median,2026-09-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+934,DK2/2026-09-02/upper,2026-09-01T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+935,DK2/2026-09-02/upper,2026-09-01T08:00:00Z,APPROVED,Within forecast budget
+936,DK2/2026-09-02/upper,2026-09-03T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+937,DK2/2026-09-03/median,2026-09-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+938,DK2/2026-09-03/median,2026-09-02T08:00:00Z,APPROVED,Within forecast budget
+939,DK2/2026-09-03/median,2026-09-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+940,DK2/2026-09-03/upper,2026-09-02T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+941,DK2/2026-09-03/upper,2026-09-02T08:00:00Z,APPROVED,Within forecast budget
+942,DK2/2026-09-03/upper,2026-09-04T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+943,DK2/2026-09-04/median,2026-09-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+944,DK2/2026-09-04/median,2026-09-03T08:00:00Z,APPROVED,Within forecast budget
+945,DK2/2026-09-04/median,2026-09-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+946,DK2/2026-09-04/upper,2026-09-03T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+947,DK2/2026-09-04/upper,2026-09-03T08:00:00Z,APPROVED,Within forecast budget
+948,DK2/2026-09-04/upper,2026-09-05T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+949,DK2/2026-09-05/median,2026-09-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+950,DK2/2026-09-05/median,2026-09-04T08:00:00Z,APPROVED,Within forecast budget
+951,DK2/2026-09-05/median,2026-09-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+952,DK2/2026-09-05/upper,2026-09-04T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+953,DK2/2026-09-05/upper,2026-09-04T08:00:00Z,APPROVED,Within forecast budget
+954,DK2/2026-09-05/upper,2026-09-06T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+955,DK2/2026-09-06/median,2026-09-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+956,DK2/2026-09-06/median,2026-09-05T08:00:00Z,APPROVED,Within forecast budget
+957,DK2/2026-09-06/median,2026-09-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+958,DK2/2026-09-06/upper,2026-09-05T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+959,DK2/2026-09-06/upper,2026-09-05T08:00:00Z,APPROVED,Within forecast budget
+960,DK2/2026-09-06/upper,2026-09-07T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+961,DK2/2026-09-07/median,2026-09-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+962,DK2/2026-09-07/median,2026-09-06T08:00:00Z,APPROVED,Within forecast budget
+963,DK2/2026-09-07/median,2026-09-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+964,DK2/2026-09-07/upper,2026-09-06T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+965,DK2/2026-09-07/upper,2026-09-06T08:00:00Z,APPROVED,Within forecast budget
+966,DK2/2026-09-07/upper,2026-09-08T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+967,DK2/2026-09-08/median,2026-09-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+968,DK2/2026-09-08/median,2026-09-07T08:00:00Z,APPROVED,Within forecast budget
+969,DK2/2026-09-08/median,2026-09-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+970,DK2/2026-09-08/upper,2026-09-07T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+971,DK2/2026-09-08/upper,2026-09-07T08:00:00Z,APPROVED,Within forecast budget
+972,DK2/2026-09-08/upper,2026-09-09T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+973,DK2/2026-09-09/median,2026-09-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+974,DK2/2026-09-09/median,2026-09-08T08:00:00Z,APPROVED,Within forecast budget
+975,DK2/2026-09-09/median,2026-09-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+976,DK2/2026-09-09/upper,2026-09-08T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+977,DK2/2026-09-09/upper,2026-09-08T08:00:00Z,APPROVED,Within forecast budget
+978,DK2/2026-09-09/upper,2026-09-10T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+979,DK2/2026-09-10/median,2026-09-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+980,DK2/2026-09-10/median,2026-09-09T08:00:00Z,APPROVED,Within forecast budget
+981,DK2/2026-09-10/median,2026-09-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+982,DK2/2026-09-10/upper,2026-09-09T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+983,DK2/2026-09-10/upper,2026-09-09T08:00:00Z,APPROVED,Within forecast budget
+984,DK2/2026-09-10/upper,2026-09-11T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+985,DK2/2026-09-11/median,2026-09-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+986,DK2/2026-09-11/median,2026-09-10T08:00:00Z,APPROVED,Within forecast budget
+987,DK2/2026-09-11/median,2026-09-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+988,DK2/2026-09-11/upper,2026-09-10T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+989,DK2/2026-09-11/upper,2026-09-10T08:00:00Z,APPROVED,Within forecast budget
+990,DK2/2026-09-11/upper,2026-09-12T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+991,DK2/2026-09-12/median,2026-09-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+992,DK2/2026-09-12/median,2026-09-11T08:00:00Z,APPROVED,Within forecast budget
+993,DK2/2026-09-12/median,2026-09-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+994,DK2/2026-09-12/upper,2026-09-11T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+995,DK2/2026-09-12/upper,2026-09-11T08:00:00Z,APPROVED,Within forecast budget
+996,DK2/2026-09-12/upper,2026-09-13T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+997,DK2/2026-09-13/median,2026-09-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+998,DK2/2026-09-13/median,2026-09-12T08:00:00Z,APPROVED,Within forecast budget
+999,DK2/2026-09-13/median,2026-09-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1000,DK2/2026-09-13/upper,2026-09-12T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1001,DK2/2026-09-13/upper,2026-09-12T08:00:00Z,APPROVED,Within forecast budget
+1002,DK2/2026-09-13/upper,2026-09-14T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1003,DK2/2026-09-14/median,2026-09-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1004,DK2/2026-09-14/median,2026-09-13T08:00:00Z,APPROVED,Within forecast budget
+1005,DK2/2026-09-14/median,2026-09-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1006,DK2/2026-09-14/upper,2026-09-13T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1007,DK2/2026-09-14/upper,2026-09-13T08:00:00Z,APPROVED,Within forecast budget
+1008,DK2/2026-09-14/upper,2026-09-15T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1009,DK2/2026-09-15/median,2026-09-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1010,DK2/2026-09-15/median,2026-09-14T08:00:00Z,APPROVED,Within forecast budget
+1011,DK2/2026-09-15/median,2026-09-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1012,DK2/2026-09-15/upper,2026-09-14T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1013,DK2/2026-09-15/upper,2026-09-14T08:00:00Z,APPROVED,Within forecast budget
+1014,DK2/2026-09-15/upper,2026-09-16T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1015,DK2/2026-09-16/median,2026-09-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1016,DK2/2026-09-16/median,2026-09-15T08:00:00Z,APPROVED,Within forecast budget
+1017,DK2/2026-09-16/median,2026-09-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1018,DK2/2026-09-16/upper,2026-09-15T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1019,DK2/2026-09-16/upper,2026-09-15T08:00:00Z,APPROVED,Within forecast budget
+1020,DK2/2026-09-16/upper,2026-09-17T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1021,DK2/2026-09-17/median,2026-09-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1022,DK2/2026-09-17/median,2026-09-16T08:00:00Z,APPROVED,Within forecast budget
+1023,DK2/2026-09-17/median,2026-09-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1024,DK2/2026-09-17/upper,2026-09-16T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1025,DK2/2026-09-17/upper,2026-09-16T08:00:00Z,APPROVED,Within forecast budget
+1026,DK2/2026-09-17/upper,2026-09-18T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1027,DK2/2026-09-18/median,2026-09-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1028,DK2/2026-09-18/median,2026-09-17T08:00:00Z,APPROVED,Within forecast budget
+1029,DK2/2026-09-18/median,2026-09-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1030,DK2/2026-09-18/upper,2026-09-17T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1031,DK2/2026-09-18/upper,2026-09-17T08:00:00Z,APPROVED,Within forecast budget
+1032,DK2/2026-09-18/upper,2026-09-19T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1033,DK2/2026-09-19/median,2026-09-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1034,DK2/2026-09-19/median,2026-09-18T08:00:00Z,APPROVED,Within forecast budget
+1035,DK2/2026-09-19/median,2026-09-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1036,DK2/2026-09-19/upper,2026-09-18T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1037,DK2/2026-09-19/upper,2026-09-18T08:00:00Z,APPROVED,Within forecast budget
+1038,DK2/2026-09-19/upper,2026-09-20T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1039,DK2/2026-09-20/median,2026-09-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1040,DK2/2026-09-20/median,2026-09-19T08:00:00Z,APPROVED,Within forecast budget
+1041,DK2/2026-09-20/median,2026-09-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1042,DK2/2026-09-20/upper,2026-09-19T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1043,DK2/2026-09-20/upper,2026-09-19T08:00:00Z,APPROVED,Within forecast budget
+1044,DK2/2026-09-20/upper,2026-09-21T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1045,DK2/2026-09-21/median,2026-09-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1046,DK2/2026-09-21/median,2026-09-20T08:00:00Z,APPROVED,Within forecast budget
+1047,DK2/2026-09-21/median,2026-09-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1048,DK2/2026-09-21/upper,2026-09-20T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1049,DK2/2026-09-21/upper,2026-09-20T08:00:00Z,APPROVED,Within forecast budget
+1050,DK2/2026-09-21/upper,2026-09-22T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1051,DK2/2026-09-22/median,2026-09-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1052,DK2/2026-09-22/median,2026-09-21T08:00:00Z,APPROVED,Within forecast budget
+1053,DK2/2026-09-22/median,2026-09-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1054,DK2/2026-09-22/upper,2026-09-21T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1055,DK2/2026-09-22/upper,2026-09-21T08:00:00Z,APPROVED,Within forecast budget
+1056,DK2/2026-09-22/upper,2026-09-23T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1057,DK2/2026-09-23/median,2026-09-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1058,DK2/2026-09-23/median,2026-09-22T08:00:00Z,APPROVED,Within forecast budget
+1059,DK2/2026-09-23/median,2026-09-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1060,DK2/2026-09-23/upper,2026-09-22T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1061,DK2/2026-09-23/upper,2026-09-22T08:00:00Z,APPROVED,Within forecast budget
+1062,DK2/2026-09-23/upper,2026-09-24T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1063,DK2/2026-09-24/median,2026-09-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1064,DK2/2026-09-24/median,2026-09-23T08:00:00Z,APPROVED,Within forecast budget
+1065,DK2/2026-09-24/median,2026-09-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1066,DK2/2026-09-24/upper,2026-09-23T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1067,DK2/2026-09-24/upper,2026-09-23T08:00:00Z,APPROVED,Within forecast budget
+1068,DK2/2026-09-24/upper,2026-09-25T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1069,DK2/2026-09-25/median,2026-09-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1070,DK2/2026-09-25/median,2026-09-24T08:00:00Z,APPROVED,Within forecast budget
+1071,DK2/2026-09-25/median,2026-09-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1072,DK2/2026-09-25/upper,2026-09-24T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1073,DK2/2026-09-25/upper,2026-09-24T08:00:00Z,APPROVED,Within forecast budget
+1074,DK2/2026-09-25/upper,2026-09-26T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1075,DK2/2026-09-26/median,2026-09-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1076,DK2/2026-09-26/median,2026-09-25T08:00:00Z,APPROVED,Within forecast budget
+1077,DK2/2026-09-26/median,2026-09-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1078,DK2/2026-09-26/upper,2026-09-25T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1079,DK2/2026-09-26/upper,2026-09-25T08:00:00Z,APPROVED,Within forecast budget
+1080,DK2/2026-09-26/upper,2026-09-27T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1081,DK2/2026-09-27/median,2026-09-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1082,DK2/2026-09-27/median,2026-09-26T08:00:00Z,APPROVED,Within forecast budget
+1083,DK2/2026-09-27/median,2026-09-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1084,DK2/2026-09-27/upper,2026-09-26T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1085,DK2/2026-09-27/upper,2026-09-26T08:00:00Z,APPROVED,Within forecast budget
+1086,DK2/2026-09-27/upper,2026-09-28T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1087,DK2/2026-09-28/median,2026-09-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1088,DK2/2026-09-28/median,2026-09-27T08:00:00Z,APPROVED,Within forecast budget
+1089,DK2/2026-09-28/median,2026-09-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1090,DK2/2026-09-28/upper,2026-09-27T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1091,DK2/2026-09-28/upper,2026-09-27T08:00:00Z,APPROVED,Within forecast budget
+1092,DK2/2026-09-28/upper,2026-09-29T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1093,DK2/2026-09-29/median,2026-09-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1094,DK2/2026-09-29/median,2026-09-28T08:00:00Z,APPROVED,Within forecast budget
+1095,DK2/2026-09-29/median,2026-09-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1096,DK2/2026-09-29/upper,2026-09-28T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1097,DK2/2026-09-29/upper,2026-09-28T08:00:00Z,APPROVED,Within forecast budget
+1098,DK2/2026-09-29/upper,2026-09-30T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1099,DK2/2026-09-30/median,2026-09-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1100,DK2/2026-09-30/median,2026-09-29T08:00:00Z,APPROVED,Within forecast budget
+1101,DK2/2026-09-30/median,2026-10-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
+1102,DK2/2026-09-30/upper,2026-09-29T08:00:00Z,PROPOSED,Energy-conserving paper purchase schedule
+1103,DK2/2026-09-30/upper,2026-09-29T08:00:00Z,APPROVED,Within forecast budget
+1104,DK2/2026-09-30/upper,2026-10-01T22:00:00Z,SETTLED,Assumed full fill at clearing price plus fee
