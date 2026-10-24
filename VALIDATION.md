@@ -2,6 +2,16 @@
 
 Local validation on 24 October 2026.
 
+## Published verification
+
+Code/data release: `a8244399f0886d07ddafbe1d71b757abcb97ae95`. All 37 published file hashes matched the staged local files.
+
+- [GitHub test run](https://github.com/Ehsan-Ch/danish-power-forecast-lab/actions/runs/40104248795): Python 3.11, Python 3.12 and browser-math jobs all passed.
+- [Pages deployment](https://github.com/Ehsan-Ch/danish-power-forecast-lab/actions/runs/40104271460): build and deployment succeeded.
+- [Public HTTPS preview](https://ehsan-ch.github.io/danish-power-forecast-lab/) opened successfully; zone switching and settled-order display were verified with no console warnings or errors.
+
+## Local checks
+
 - 24 Python tests passed: calendar/DST handling, source validation, cutoff checks, future-price mutation, fixed recipes, residual calibration, ledger approvals/rejections/cancellations, duplicate prevention and atomic settlement.
 - 5 JavaScript tests passed: report scores match Python, all paper costs reconcile, lifecycle display, negative chart bounds and CSV quoting.
 - JavaScript syntax check passed.
